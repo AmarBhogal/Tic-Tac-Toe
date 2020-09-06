@@ -1,4 +1,5 @@
 # Tic-tac-toe
-Tic tac toe created in python
 
-I created the game Tic Tac Toe in python. Enjoy! 
+I created the game Tic Tac Toe in python. Mainly for use for keyboards with a numerical keypad.
+
+Enjoy!
